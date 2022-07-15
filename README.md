@@ -1,10 +1,9 @@
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joei-lorenti-9a4b17162)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joei-lorenti-9a4b17162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLiA9fGZFSRSuKGP8Y3%2BgwA%3D%3D)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeivicente/)
 
 [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
 
-[![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva)
 
 ### Olá 👋
 

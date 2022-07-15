@@ -2,17 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeivicente/)
 
-[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
-
 
 ### Olá 👋
 
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
+   
 <!--
 **Joei-Vicente/Joei-Vicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
